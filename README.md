@@ -1,6 +1,6 @@
-# Welcome to Data Structures &amp; Algorithms in Object Oriented Programming (E23)
+# Welcome to Data Structures &amp; Algorithms in Object Oriented Programming (E24)
 
-Rahman Peimankar, 2023
+Rahman Peimankar, 2024
 
 The Maersk Mc-Kinney Møller Institute - University of Southern Denmark  
 
