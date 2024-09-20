@@ -2,7 +2,7 @@
 
 Lecture 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e23/blob/master/Lecture%201/dsa-1-introduction.ipynb)
 
-Lecture 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e24/blob/master/Lecture%202/dsa-2-big-o-and-recursion.ipynb)
+Lecture 3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e24/blob/master/Lecture%202/dsa-2-big-o-and-recursion.ipynb)
 
 Lecture 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e24/blob/master/Lecture%203/dsa-3-array-based-sequence.ipynb)
 
