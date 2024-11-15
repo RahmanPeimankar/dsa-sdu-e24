@@ -16,6 +16,8 @@ Lecture 7: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 8: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e24/blob/master/Lecture%208/dsa-8-maps.ipynb)
 
+Lecture 9: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e24/blob/master/Lecture%209/dsa-9-hash-tables.ipynb)
+
 On this page, you can find course materials such as slides and Jupyter notebooks.
 
 You only need to launch *Colab* by clicking on the above logo. This will basically setup the environment that you need to run the Jupyter notebooks on the cloud. This may take **a few minutes**. So, grab a cup of coffee 😊.
