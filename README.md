@@ -20,6 +20,8 @@ Lecture 9: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 10: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e24/blob/master/Lecture%2010/dsa-10-sorted-maps-trees.ipynb)
 
+Lecture 11: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e24/blob/master/Lecture%2011/dsa-11-binary-trees.ipynb#scrollTo=ORAdetseR7Ml)
+
 On this page, you can find course materials such as slides and Jupyter notebooks.
 
 You only need to launch *Colab* by clicking on the above logo. This will basically setup the environment that you need to run the Jupyter notebooks on the cloud. This may take **a few minutes**. So, grab a cup of coffee 😊.
